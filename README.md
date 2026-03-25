@@ -1,6 +1,7 @@
 Hi, I'm Mansi Kawale
 
 🎓 MSc Computer Applications student at Fergusson College
+
 💻 Passionate about building practical and efficient software solutions
 
 🛠️ Skills & Technologies
@@ -23,5 +24,7 @@ React-js
 - Building real-world projects  
 - Writing clean and maintainable code  
 - Exploring modern web technologies
+
+
 
 - 
