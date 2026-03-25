@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Mansi Kawale
 
-<!--
-**mansi153-wq/mansi153-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Applications student at Fergusson College
+💻 Passionate about building practical and efficient software solutions
 
-Here are some ideas to get you started:
+🛠️ Skills & Technologies
+Languages: Java, C, JavaScript, PHP
+Frontend: HTML, CSS, React.js
+Database: MySQL,PostgresSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools: Git, GitHub,Nodejs.
+
+📚 Currently Learning
+Advanced Java & backend development
+React-js
+
+## 💡 Areas of Interest
+- Frontend Development  
+- Web Development  
+- Software Design & Problem Solving 
+
+## 🚀 What I Enjoy
+- Building real-world projects  
+- Writing clean and maintainable code  
+- Exploring modern web technologies
+
+- 
