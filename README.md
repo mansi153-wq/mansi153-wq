@@ -28,8 +28,7 @@ Hi, I'm Mansi Kawale<br><br> MSc Computer Applications student at Fergusson Coll
 <br>Building real-world projects<br>Writing clean and maintainable code<br>Exploring modern web technologies<br><br>
 I’m currently working on<br>Real-Time Chat Application (Drift) using React, Express, Socket.IO, and MySQL.<br><br>
 I’m looking to collaborate on<br>Open-source web development projects, full-stack applications, and Java-based projects.<br><br> I’m looking for help with<br>Scalable backend architecture, real-time systems, and software design best practices.<br><br>
-I’m currently learning<br>Advanced Java, Python Programming, React.js, and Backend Development.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, Java, PHP, MySQL, Git, GitHub, and Web Development.<br><br>
- Fun fact<br>I enjoy turning project ideas into working applications and learning one bug at a time!
+I’m currently learning<br>Advanced Java, Python Programming, React.js, and Backend Development.<br><br>
 
 
 
